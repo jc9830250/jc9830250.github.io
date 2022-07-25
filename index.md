@@ -17,13 +17,6 @@ I received a B.Sc. degree from the Department of Information and Library Science
 
 Digital Library, Digital Humanities, Information Organization, Natural Language Processing, Social Computing, Data Analysis, Information Retrieval, Scholarly Communication, Digital Learning
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
 ## Education
 - **National Chengchi University (NCCU), Taipei, Taiwan	  2016/08 – 2018/07**
   - MS in Library, Information & Archival Studies
@@ -46,7 +39,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 7. Chen, C.-M. and ***Chang, C.*** (2019), "A Chinese ancient book digital humanities research platform to support digital humanities research", The Electronic Library, Vol. 37 No. 2, pp. 314-336. https://doi.org/10.1108/EL-10-2018-0213. 
 8. Hsu, C.F., and ***Chang, C.***, (2019). Development and Application of an Ancient Chinese Sentence Segmentation System Based on Active Learning. Journal of InfoLib and Archives, Vol. 95, pp. 117-145. http://dx.doi.org/10.6575%2fJILA.201912_(95).0004.
 
-### ***Conference papers***:
+### **Conference papers:**
 1. Chih-Ming Chen, Ying-Xiang Zhao, ***Chung Chang***, & Szu-Yu Ho. "Developing an Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research" in DADH 2021: 12th International Conference of Digital Archives and Digital Humanities, Changhua, Taiwan, 2021.12. 
 2. Chih-Ming Chen, Chun-Yu Lin, & ***Chung Chang***. "Development and Application of the Knowledge Graph Analysis Tool of Characters and Institutions on Digital Humanities" in 1st Conference of LIS and Practices(CoLISP 2021), Taipei, Taiwan, 2021.11.
 3. C. Chen, C.F. Hsu, and ***C. Chang***, " Development and Application of an Ancient Chinese Sentence Segmentation System Based on Active Learning Tool" in International Conference on the Digital Humanities for Historical works and Sinographs, Online, Korea, 2021.10. 
@@ -64,18 +57,18 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - Reviewer, Data Technologies and Applications,  2021
 
 ## Presentations
-- ***Tzu-Chi Digital Archives Workshop	2020/7/25-2020/7/26***
+- **Tzu-Chi Digital Archives Workshop	2020/7/25-2020/7/26**
   - “Natural Language Processing applications in Digital Humanities and Digital Archive” in Taiwan Buddhist Tzu-Chi Foundation
-- ***Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4***
+- **Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4**
   - “Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings" in Social Sciences Information Center, National Chengchi University
 
 ## Selected Research Experience, Projects, & Developing Applications
 
 ## Selected Teaching Experience
 
-- ***Teaching Assistant of graduate course “Digital Library and Digital learning”	2017/7-2017/9***
+- **Teaching Assistant of graduate course “Digital Library and Digital learning”	2017/7-2017/9**
   - Taught by Prof. Chih-Ming Chen (National Chengchi University)
--  ***Instructor of Koha library system education	2014-present***
+-  **Instructor of Koha library system education	2014-2018**
   - Taught Koha Library System
   - Taught in Library Service Team, Fu Jen Catholic University, Taiwan
   - Award: "Service-Learning Excellence Award"(2015)
@@ -90,14 +83,14 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - Linux: Ubuntu/Debian Server, Proxmox, Zentyal
 
 ## Volunteer Experience
-- ***Library Service Team of Guangdong Union Theological Seminary Library, China	2017/01/14-2017/01/21***
+- **Library Service Team of Guangdong Union Theological Seminary Library, China	2017/01/14-2017/01/21**
   - Built and maintained Koha Library System
-- ***Library Service Team of Christian Training Center of Hainan Province, China	2016/06/28-2016/07/05***
+- **Library Service Team of Christian Training Center of Hainan Province, China	2016/06/28-2016/07/05**
   - Built and maintained Koha Library System
-- ***Library Service Team of Biblical Seminary of the Philippines, Philippines	2015/06/28-2015/07/05***
+- **Library Service Team of Biblical Seminary of the Philippines, Philippines	2015/06/28-2015/07/05**
   - Built and maintained Koha Library System
-- ***Library Service Team of Dominican International School, Taiwan	2014/06/22-2014/06/28***
+- **Library Service Team of Dominican International School, Taiwan	2014/06/22-2014/06/28**
   - Built and maintained Koha Library System
-- ***Library Service Team of Echo Library, China	2014/01/19-2014/06/26***
+- **Library Service Team of Echo Library, China	2014/01/19-2014/06/26**
   - Built and maintained Koha Library System
-- ***Mobile Reading  Summer Camp of Rural, Taiwan	2013/07/15-2013/07/20***
+- **Mobile Reading  Summer Camp of Rural, Taiwan	2013/07/15-2013/07/20**
