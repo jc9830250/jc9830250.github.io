@@ -77,7 +77,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 8. The Ancient Chinese Sentence Segmentation System Based on Active Learning, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
 9. The Construction of Digital Humanities Platform on Chinese Ancient Books project, National Chengchi University Library, NCCU, Taiwan
 <center> 
-E-learning, Scholarly Communication, and Other Topics:
+<strong>E-learning, Scholarly Communication, and Other Topics:</strong>
 <center>
 1. Automatic Push-Service ChatBot for Supporting Group Discussion in the E-learning environment, Digital Library, and Learning Laboratory
 2. The Effects of Web-based Inquiry-based Learning with the Support of a Digital Humanities Research Platform on Learning Performance, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
