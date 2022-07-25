@@ -62,7 +62,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - **Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4**
   - “Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings" in Social Sciences Information Center, National Chengchi University
 
-## Selected Research Experience, Projects, & Developing Applications
+## Selected Research Projects, & Developing Applications
 
 ## Selected Teaching Experience
 
