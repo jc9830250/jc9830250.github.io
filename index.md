@@ -8,8 +8,7 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Digital Library, Digital Humanities, Information Organization, Natural Language Processing, Social Computing, Data Analysis, Information Retrieval, Scholarly Communication, Digital Learning
 
 ## News
 
