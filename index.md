@@ -89,7 +89,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 - **Teaching Assistant of graduate course “Digital Library and Digital learning”	2017/7-2017/9**
   - Taught by Prof. Chih-Ming Chen (National Chengchi University)
--  **Instructor of Koha library system education	2014-2018**
+- **Instructor of Koha library system education	2014-2018**
   - Taught Koha Library System
   - Taught in Library Service Team, Fu Jen Catholic University, Taiwan
   - Award: Service-Learning Excellence Award (2015)
