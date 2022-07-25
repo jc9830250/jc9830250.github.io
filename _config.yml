@@ -8,8 +8,8 @@ github_link: https://github.com/jc9830250
 linkedin: https://www.linkedin.com/in/chung-chang-62a825118/?locale=en_US
 avatar: ./assets/img/avatar.png
 google_analytics: 
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/biography.png
+favicon_dark: ./assets/img/biography.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: 
 remote_theme: yaoyao-liu/minimal-light
