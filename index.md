@@ -25,13 +25,13 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Education
-**National Chengchi University (NCCU), Taipei, Taiwan	2016/08 – 2018/07**
+- **National Chengchi University (NCCU), Taipei, Taiwan	2016/08 – 2018/07**
   - MS in Library, Information & Archival Studies
   - Overall GPA: 4.12/4.3 
   - Thesis: Development and Evaluation of a Character Social Network Relationship Map Tool in an Ancient Book Digital Humanities Research Platform
   - Thesis Advisor: Prof. Chih-Ming Chen
 <br>
-**Fu Jen Catholic University (FJU), New Taipei City, Taiwan 	2012/08 – 2016/07**
+- **Fu Jen Catholic University (FJU), New Taipei City, Taiwan 	2012/08 – 2016/07**
   - BA in Library and Information Science
   - Awards: “Service-Learning Excellence Award” (2015), “Active Participation in Research Award” (2014)
 ## Publications
