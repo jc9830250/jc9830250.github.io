@@ -92,7 +92,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 -  **Instructor of Koha library system education	2014-2018**
   - Taught Koha Library System
   - Taught in Library Service Team, Fu Jen Catholic University, Taiwan
-  - Award: "Service-Learning Excellence Award"(2015)
+  - Award: Service-Learning Excellence Award (2015)
 
 ## Computer Skills
 - Python: Data Analysis, Machine Learning, Flask
