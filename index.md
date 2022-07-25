@@ -9,7 +9,7 @@ Chung Chang received a B.Sc. degree from the Department of Information and Libra
 ## Working Experience
 - **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–Present**
   - IT Engineer for developing digital humanities applications and digital archive platforms
-- **Shou Ray Information Service Co., New Taipei City, Taiwan 2015/9-2016/9**
+- **Shou Ray Information Service Co., New Taipei City, Taiwan   2015/9-2016/9**
   - Koha library system programmer (Intern)
 
 
@@ -60,7 +60,39 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
+### Conference papers:
 ## Services
 - Reviewer, Library Hi Tech, 2021
 - Reviewer, Data Technologies and Applications,  2021
+### Presentations
+- ***Tzu-Chi Digital Archives Workshop	2020/7/25-2020/7/26***
+  - “Natural Language Processing applications in Digital Humanities and Digital Archive” in Taiwan Buddhist Tzu-Chi Foundation
+- ***Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4***
+  - “Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings" in Social Sciences Information Center, National Chengchi University
+### Selected Teaching Experience
+- ***Teaching Assistant of graduate course “Digital Library and Digital learning”	2017/7-2017/9***
+  - Taught by Prof. Chih-Ming Chen (National Chengchi University)
+-  ***Instructor of Koha library system education	2014-present***
+  - Taught Koha Library System
+  - Taught in Library Service Team, Fu Jen Catholic University, Taiwan
+  - Award: "Service-Learning Excellence Award"(2015)
+## Computer Skills
+- Python: Data Analysis, Machine Learning, Flask
+- PHP: Developing Omeka S (open source of digital archive system), Moodle Plugins
+- Java: Developing Dspace (open source of digital archive system)
+- JavaScript: Node.js, Google Analytics Plugin
+- Perl: Developing Koha (open source integrated library system)
+- R: Statistic and Data Analysis
+- Linux: Ubuntu/Debian Server, Proxmox, Zentyal
+## Volunteer Experience
+- ***Library Service Team of Guangdong Union Theological Seminary Library, China	2017/01/14-2017/01/21***
+  - Built and maintained Koha Library System
+- ***Library Service Team of Christian Training Center of Hainan Province, China	2016/06/28-2016/07/05***
+  - Built and maintained Koha Library System
+- ***Library Service Team of Biblical Seminary of the Philippines, Philippines	2015/06/28-2015/07/05***
+  - Built and maintained Koha Library System
+- ***Library Service Team of Dominican International School, Taiwan	2014/06/22-2014/06/28***
+  - Built and maintained Koha Library System
+- ***Library Service Team of Echo Library, China	2014/01/19-2014/06/26***
+  - Built and maintained Koha Library System
+- ***Mobile Reading  Summer Camp of Rural, Taiwan	2013/07/15-2013/07/20***
