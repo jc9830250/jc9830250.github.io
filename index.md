@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
+I'm an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
 I received a B.Sc. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received master degree from the Graduate Institute of Library, Information and Archival Studies in 2018.
 
 ## Working Experience
@@ -63,6 +63,23 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
   - “Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings" in Social Sciences Information Center, National Chengchi University
 
 ## Selected Research Projects, & Developing Applications
+
+<center> ### **Digital Humanities, Digital library, and Natural Language Processing Topics:** </center>
+1. Digital Humanities Research Platform for Dianshizhai Pictorial
+2. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
+3. Digital Humanities Research Platform for Biographies of Malaysia Personalities
+4. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings
+5. Knowledge Graph Analysis Tool of Biographies of Malaysia Personalities
+6. Digital Humanities Research Platform for Biographies of Malaysia Personalities, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan 
+7. Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+8. The Ancient Chinese Sentence Segmentation System Based on Active Learning, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+9. The Construction of Digital Humanities Platform on Chinese Ancient Books project, National Chengchi University Library, NCCU, Taiwan
+### **E-learning, Scholarly Communication, and Other Topics:**
+1. Automatic Push-Service ChatBot for Supporting Group Discussion in the E-learning environment, Digital Library, and Learning Laboratory
+2. The Effects of Web-based Inquiry-based Learning with the Support of a Digital Humanities Research Platform on Learning Performance, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+3. The Effects of an Intelligence Academic Article Push-Service Agent on Scholarly Communication, Digital Library, and Learning Laboratory, NCCU, Taiwan
+4. Analysis of Website User Behavior: A Case Study of National Chengchi University Academic Hub, Digital Library and Learning Laboratory, NCCU, Taiwan
+5. Promoting Teaching Excellence of Universities-E-learning of Learning Disorder, Fu Jen Catholic University
 
 ## Selected Teaching Experience
 
