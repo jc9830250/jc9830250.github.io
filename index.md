@@ -9,7 +9,7 @@ Chung Chang received a B.Sc. degree from the Department of Information and Libra
 ## Working Experience
 - **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–Present**
   - IT Engineer for developing digital humanities applications and digital archive platforms
-- **Shou Ray Information Service Co., New Taipei City, Taiwan	2015/9-2016/9**
+- **Shou Ray Information Service Co., New Taipei City, Taiwan 2015/9-2016/9**
   - Koha library system programmer (Intern)
 
 
@@ -25,7 +25,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Education
-- **National Chengchi University (NCCU), Taipei, Taiwan	2016/08 – 2018/07**
+- **National Chengchi University (NCCU), Taipei, Taiwan	  2016/08 – 2018/07**
   - MS in Library, Information & Archival Studies
   - Overall GPA: 4.12/4.3 
   - Thesis: Development and Evaluation of a Character Social Network Relationship Map Tool in an Ancient Book Digital Humanities Research Platform
@@ -34,8 +34,9 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - **Fu Jen Catholic University (FJU), New Taipei City, Taiwan 	2012/08 – 2016/07**
   - BA in Library and Information Science
   - Awards: “Service-Learning Excellence Award” (2015), “Active Participation in Research Award” (2014)
+
 ## Publications
-###**Journal Papers:**
+### **Journal Papers:**
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
@@ -61,6 +62,5 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 ## Services
-
-- Reviewer, Library Hi Tech 	2021
-- Reviewer, Data Technologies and Applications  2021
+- Reviewer, Library Hi Tech, 2021
+- Reviewer, Data Technologies and Applications,  2021
