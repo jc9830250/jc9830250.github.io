@@ -62,8 +62,19 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 ### ***Conference papers***:
+1. Chih-Ming Chen, Ying-Xiang Zhao, ***Chung Chang***, & Szu-Yu Ho. "Developing an Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research" in DADH 2021: 12th International Conference of Digital Archives and Digital Humanities, Changhua, Taiwan, 2021.12. 
+2. Chih-Ming Chen, Chun-Yu Lin, & ***Chung Chang***. "Development and Application of the Knowledge Graph Analysis Tool of Characters and Institutions on Digital Humanities" in 1st Conference of LIS and Practices(CoLISP 2021), Taipei, Taiwan, 2021.11.
+3. C. Chen, C.F. Hsu, and ***C. Chang***, " Development and Application of an Ancient Chinese Sentence Segmentation System Based on Active Learning Tool" in International Conference on the Digital Humanities for Historical works and Sinographs, Online, Korea, 2021.10. 
+4. C. Chen, C. Chang, C.F. Hsu, and Chia Pei Lim, "Development and Application of Digital Humanities Research Platform for Biographies of Malaysia Personalities" in 13th Conference on Cooperative Development and Sharing of Chinese Resources, Taipei, Taiwan, 2021.7. 
+5. Szu-Yu Ho, Chih-Ming Chen, and ***Chung Chang***. "Development and Application of Digital Humanities Research Platform with Hierarchical Topic Analysis Tool" in DADH 2020: The Eleventh International Conference of Digital Archives and Digital Humanities, Taipei, Taiwan, 2020.12. 
+6. S. Ho, C. Chen and ***C. Chang***, "A Chinese Ancient Book Digital Humanities Research Platform to Support Digital Humanities Research" in 2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI), Toyama, Japan, 2019, pp. 1-6, DOI: 10.1109/IIAI-AAI.2019.00012. 
+7. F. Chen, C. Chen and ***C. Chang***, "Development and Evaluation of a Character Social Network Relationship Map Tool in an Ancient Book Digital Humanities Research Platform," in 2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI), Toyama, Japan, 2019 pp. 73-78. DOI: 10.1109/IIAI-AAI.2019.00025. 
+8. Chih-Ming Chen, ***Chung Chang***, " Development and Application of Ancient Books Digital Humanities Research Platform with Characters’ Relationship Map - A Case Study of the Characters in the Ming Dynasty Ancient Books" in 10th International Conference of Digital Archives and Digital Humanities, Taipei, Taiwan, 2018. 
+9. ***C. Chang***, C. Chen and F. Chen, "A Collaborative Reading Annotation System for Promoting Reading Performance," 2017 6th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI), Hamamatsu, Japan, 2017, pp. 637-642, DOI: 10.1109/IIAI-AAI.2017.54. 
+10. Jie Li Kwok, and ***Chung Chang.*** “The Planning and Establishment of the Buddhist Special Library- A Case Study of Argentine Buddhist Library” in Conference on Library and Information Society, New Taipei City, Taiwan, 2017. 
+11. ***C. Chang.***, and C.C. Mao. “Practice Tool of Information Organization: KOHA Live” in The 13th Cross-Strait Library and Information Science Seminar, Wuhan, China, 2016.
 
-## Services
+### Academic Services
 - Reviewer, Library Hi Tech, 2021
 - Reviewer, Data Technologies and Applications,  2021
 
