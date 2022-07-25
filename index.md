@@ -64,7 +64,9 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Selected Research Projects, & Developing Applications
 
-<center> ### **Digital Humanities, Digital library, and Natural Language Processing Topics:** </center>
+<center> 
+### **Digital Humanities, Digital library, and Natural Language Processing Topics:** 
+</center>
 1. Digital Humanities Research Platform for Dianshizhai Pictorial
 2. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
 3. Digital Humanities Research Platform for Biographies of Malaysia Personalities
