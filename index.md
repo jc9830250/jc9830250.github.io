@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-
-Chung Chang received a B.Sc. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received master degree from the Graduate Institute of Library, Information and Archival Studies in 2018. He is now an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
+I am an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
+I received a B.Sc. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received master degree from the Graduate Institute of Library, Information and Archival Studies in 2018.
 
 ## Working Experience
 - **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–Present**
@@ -37,29 +37,14 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Publications
 ### **Journal Papers:**
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+1. Chen, C.M., ***Chang, C.***, & Hsu, C.F., & Lim, C. P. (2022). Development and application of a digital humanities research platform for biographies of Malaysian personalities. The Electronic Library. 
+2. Chen, C.M., ***Chang, C.***, & Chen, C.Y. (2022). Inquiry-based Learning with a Digital Humanities Research Platform’s Support to Facilitate Students’ Historical Investigation Performance. Journal of Library and Information Studies.
+3. Chen, C.M., Ho, S.Y., & ***Chang, C.*** (2021). A Hierarchical Topic Analysis Tool to Facilitate Digital Humanities Research. Aslib Journal of Information Management.
+4. Chen, C.M., ***Chang, C.***, & Chen, Y.T. (2021). A character social network relationship map tool to facilitate digital humanities research. Library Hi Tech.	
+5. Lin, C.H., ***Chang, C.***, & Hsu, C.F. (2020). Development and Application of Digital Humanities Research Platform with Observation Tool of Viewpoint Migration and Age Division. Journal of InfoLib and Archives, Vol. 96, pp. 110-170. doi:10.6575/JILA.202006_(96).0004. 
+6. Chen, C.M., ***Chang, C.***, & Hsu, C.F. (2020). Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings. Journal of Digital Archives and Digital Humanities, Vol. 5, pp73-115. doi:10.6853/DADH.202004_(5).0003. 
+7. Chen, C.-M. and ***Chang, C.*** (2019), "A Chinese ancient book digital humanities research platform to support digital humanities research", The Electronic Library, Vol. 37 No. 2, pp. 314-336. https://doi.org/10.1108/EL-10-2018-0213. 
+8. Hsu, C.F., and ***Chang, C.***, (2019). Development and Application of an Ancient Chinese Sentence Segmentation System Based on Active Learning. Journal of InfoLib and Archives, Vol. 95, pp. 117-145. http://dx.doi.org/10.6575%2fJILA.201912_(95).0004.
 
 ### ***Conference papers***:
 1. Chih-Ming Chen, Ying-Xiang Zhao, ***Chung Chang***, & Szu-Yu Ho. "Developing an Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research" in DADH 2021: 12th International Conference of Digital Archives and Digital Humanities, Changhua, Taiwan, 2021.12. 
@@ -74,16 +59,19 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 10. Jie Li Kwok, and ***Chung Chang.*** “The Planning and Establishment of the Buddhist Special Library- A Case Study of Argentine Buddhist Library” in Conference on Library and Information Society, New Taipei City, Taiwan, 2017. 
 11. ***C. Chang.***, and C.C. Mao. “Practice Tool of Information Organization: KOHA Live” in The 13th Cross-Strait Library and Information Science Seminar, Wuhan, China, 2016.
 
-### Academic Services
+## Academic Services
 - Reviewer, Library Hi Tech, 2021
 - Reviewer, Data Technologies and Applications,  2021
 
-### Presentations
+## Presentations
 - ***Tzu-Chi Digital Archives Workshop	2020/7/25-2020/7/26***
   - “Natural Language Processing applications in Digital Humanities and Digital Archive” in Taiwan Buddhist Tzu-Chi Foundation
 - ***Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4***
   - “Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings" in Social Sciences Information Center, National Chengchi University
-### Selected Teaching Experience
+
+## Selected Research Experience, Projects, & Developing Applications
+
+## Selected Teaching Experience
 
 - ***Teaching Assistant of graduate course “Digital Library and Digital learning”	2017/7-2017/9***
   - Taught by Prof. Chih-Ming Chen (National Chengchi University)
