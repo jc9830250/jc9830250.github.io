@@ -1,1 +1,1 @@
-cv resource: https://github.com/yaoyao-liu/minimal-light
+cv template resource: https://github.com/yaoyao-liu/minimal-light
