@@ -66,7 +66,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 <center> 
 <strong>Digital Humanities, Digital library, and Natural Language Processing Topics:</strong>
 </center>
-1. Digital Humanities Research Platform for Dianshizhai Pictorial [[demo](http://dianshizhai-ccstw.ccstw.nccu.edu.tw/s/dianshizhai/page/home)]
+1. Digital Humanities Research Platform for Dianshizhai Pictorial [[demo](http://dianshizhai-ccstw.ccstw.nccu.edu.tw/s/dianshizhai/page/home){:target="_blank"}]
 3. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
 4. Digital Humanities Research Platform for Biographies of Malaysia Personalities [[demo](http://ccstwlib.ccstw.nccu.edu.tw/)] [[paper](https://doi.org/10.1108/EL-01-2022-0007)]
 5. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings [[demo](http://lo-ccstw-omekas.ccstw.nccu.edu.tw/s/lo/page/linkdata)]
