@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## A
+## About Me
 I'm currently an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
 I received a B.A. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received a master degree from the Graduate Institute of Library, Information and Archival Studies at National Chengchi University, Taiwan in 2018.
 
@@ -19,7 +19,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Education
 - **National Chengchi University (NCCU), Taipei, Taiwan	  2016/08 – 2018/07**
-  - MS in Library, Information & Archival Studies
+  - MA in Library, Information & Archival Studies
   - Overall GPA: 4.12/4.3 
   - Thesis: Development and Evaluation of a Character Social Network Relationship Map Tool in an Ancient Book Digital Humanities Research Platform
   - Thesis Advisor: Prof. Chih-Ming Chen
