@@ -61,7 +61,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - **Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4**
   - “Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings" in Social Sciences Information Center, National Chengchi University
 
-## Selected Research Projects, & Developing Applications
+## Research Projects & Applications
 
 <center> 
 <strong>Digital Humanities, Digital library, and Natural Language Processing Topics:</strong>
@@ -89,7 +89,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
   - Taught course “Introduction to Computer” on the FJU Library and Information Science OpenCourseWare Platform
   - Award: Active Participation in Research Award (2014)
 
-## Selected Teaching Experience
+## Teaching Experience
 
 - **Teaching Assistant of graduate course “Digital Library and Digital learning”	2017/7-2017/9**
   - Taught by Prof. Chih-Ming Chen (National Chengchi University)
