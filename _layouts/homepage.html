@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
-
+   <!-- <title>{{ site.title }} | {{site.affiliation}}</title>-->
+    <title>Chung Chang</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -71,6 +71,11 @@
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
+           {% if site.oricd_link %}            
+          <a href="{{ site.oricd_link }}" target="_blank">
+            <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
           </a>
           {% endif %}
         </div>
