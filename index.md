@@ -70,19 +70,24 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 3. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
 4. Digital Humanities Research Platform for Biographies of Malaysia Personalities [[demo](http://ccstwlib.ccstw.nccu.edu.tw/){:target="_blank"}] [[paper](https://doi.org/10.1108/EL-01-2022-0007){:target="_blank"}]
 5. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings [[demo](http://lo-ccstw-omekas.ccstw.nccu.edu.tw/s/lo/page/linkdata){:target="_blank"}]
-6. Knowledge Graph Analysis Tool of Biographies of Malaysia Personalities
-7. Digital Humanities Research Platform for Biographies of Malaysia Personalities, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan 
-8. Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
-9. The Ancient Chinese Sentence Segmentation System Based on Active Learning, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
-10. The Construction of Digital Humanities Platform on Chinese Ancient Books project, National Chengchi University Library, NCCU, Taiwan
+6. Knowledge Graph Analysis Tool of Biographies of Malaysia Personalities [[demo](http://ccstwlib.ccstw.nccu.edu.tw/s/malaysiaperson/page/knowledgegraph){:target="_blank"}]
+7. Hierarchical Topic Analysis Tool for Mr. Lo Chia-Lun's Writings [[demo](http://athtte.ccstw.nccu.edu.tw/hldaindex){:target="_blank"}]
+8.  Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings (Omeka S), Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan [[demo](http://lo-ccstw-omekas.ccstw.nccu.edu.tw){:target="_blank"}]
+9. Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings (Dspace), Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan [[demo](http://lcl.ccstw.nccu.edu.tw/){:target="_blank"}]
+10. Observation Tool of Viewpoint Migration and Age Division for Mr. Lo Chia-Lun's Writings [[demo](http://dev-lo.ccstw.nccu.edu.tw/){:target="_blank"}]
+11. The Ancient Chinese Sentence Segmentation System Based on Active Learning, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+12. Character Social Network Relationship Map Tool for Ming Dynasty Ancient Books [[demo](http://ming.ncl.edu.tw/socialnetwork?viewer=116){:target="_blank"}]
+13. Digital Humanities Platform on Chinese Ancient Books project, National Chengchi University Library, NCCU, Taiwan [[demo](http://ming.lib.nccu.edu.tw/){:target="_blank"}]
 <center> 
 <strong>E-learning, Scholarly Communication, and Other Topics:</strong>
 </center>
 1. Automatic Push-Service ChatBot for Supporting Group Discussion in the E-learning environment, Digital Library, and Learning Laboratory
-2. The Effects of Web-based Inquiry-based Learning with the Support of a Digital Humanities Research Platform on Learning Performance, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+2. The Effects of Web-based Inquiry-based Learning with the Support of a Digital Humanities Research Platform on Learning Performance, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan  [[paper](./assets/paper/20220706-Pre1.pdf){:target="_blank"}]
 3. The Effects of an Intelligence Academic Article Push-Service Agent on Scholarly Communication, Digital Library, and Learning Laboratory, NCCU, Taiwan
 4. Analysis of Website User Behavior: A Case Study of National Chengchi University Academic Hub, Digital Library and Learning Laboratory, NCCU, Taiwan
 5. Promoting Teaching Excellence of Universities-E-learning of Learning Disorder, Fu Jen Catholic University
+  - Taught course “Introduction to Computer” on the FJU Library and Information Science OpenCourseWare Platform
+  - Award: Active Participation in Research Award (2014)
 
 ## Selected Teaching Experience
 
