@@ -66,15 +66,15 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 <center> 
 <strong>Digital Humanities, Digital library, and Natural Language Processing Topics:</strong>
 </center>
-1. Digital Humanities Research Platform for Dianshizhai Pictorial
-2. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
-3. Digital Humanities Research Platform for Biographies of Malaysia Personalities
-4. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings
-5. Knowledge Graph Analysis Tool of Biographies of Malaysia Personalities
-6. Digital Humanities Research Platform for Biographies of Malaysia Personalities, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan 
-7. Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
-8. The Ancient Chinese Sentence Segmentation System Based on Active Learning, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
-9. The Construction of Digital Humanities Platform on Chinese Ancient Books project, National Chengchi University Library, NCCU, Taiwan
+1. Digital Humanities Research Platform for Dianshizhai Pictorial [[demo](http://dianshizhai-ccstw.ccstw.nccu.edu.tw/s/dianshizhai/page/home)]
+3. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
+4. Digital Humanities Research Platform for Biographies of Malaysia Personalities [[demo](http://ccstwlib.ccstw.nccu.edu.tw/)] [[paper](https://doi.org/10.1108/EL-01-2022-0007)]
+5. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings [[demo](http://lo-ccstw-omekas.ccstw.nccu.edu.tw/s/lo/page/linkdata)]
+6. Knowledge Graph Analysis Tool of Biographies of Malaysia Personalities
+7. Digital Humanities Research Platform for Biographies of Malaysia Personalities, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan 
+8. Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+9. The Ancient Chinese Sentence Segmentation System Based on Active Learning, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
+10. The Construction of Digital Humanities Platform on Chinese Ancient Books project, National Chengchi University Library, NCCU, Taiwan
 <center> 
 <strong>E-learning, Scholarly Communication, and Other Topics:</strong>
 </center>
