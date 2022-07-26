@@ -29,7 +29,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Publications
 ### **Journal Papers:**
-1. Chen, C.M., ***Chang, C.***, & Hsu, C.F., & Lim, C. P. (2022). Development and application of a digital humanities research platform for biographies of Malaysian personalities. The Electronic Library. 
+1. Chen, C.M., ***Chang, C.***, & Hsu, C.F., & Lim, C. P. (2022). Development and application of a digital humanities research platform for biographies of Malaysian personalities. The Electronic Library. [[paper](https://doi.org/10.1108/EL-01-2022-0007){:target="_blank"}]
 2. Chen, C.M., ***Chang, C.***, & Chen, C.Y. (2022). Inquiry-based Learning with a Digital Humanities Research Platform’s Support to Facilitate Students’ Historical Investigation Performance. Journal of Library and Information Studies.
 3. Chen, C.M., Ho, S.Y., & ***Chang, C.*** (2021). A Hierarchical Topic Analysis Tool to Facilitate Digital Humanities Research. Aslib Journal of Information Management.
 4. Chen, C.M., ***Chang, C.***, & Chen, Y.T. (2021). A character social network relationship map tool to facilitate digital humanities research. Library Hi Tech.	
@@ -68,8 +68,8 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 </center>
 1. Digital Humanities Research Platform for Dianshizhai Pictorial [[demo](http://dianshizhai-ccstw.ccstw.nccu.edu.tw/s/dianshizhai/page/home){:target="_blank"}]
 3. Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research
-4. Digital Humanities Research Platform for Biographies of Malaysia Personalities [[demo](http://ccstwlib.ccstw.nccu.edu.tw/)] [[paper](https://doi.org/10.1108/EL-01-2022-0007)]
-5. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings [[demo](http://lo-ccstw-omekas.ccstw.nccu.edu.tw/s/lo/page/linkdata)]
+4. Digital Humanities Research Platform for Biographies of Malaysia Personalities [[demo](http://ccstwlib.ccstw.nccu.edu.tw/){:target="_blank"}] [[paper](https://doi.org/10.1108/EL-01-2022-0007){:target="_blank"}]
+5. Automatic Linked Data Generator tool for Mr. Lo Chia-Lun's Writings [[demo](http://lo-ccstw-omekas.ccstw.nccu.edu.tw/s/lo/page/linkdata){:target="_blank"}]
 6. Knowledge Graph Analysis Tool of Biographies of Malaysia Personalities
 7. Digital Humanities Research Platform for Biographies of Malaysia Personalities, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan 
 8. Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings, Research Center for Chinese Cultural Subjectivity, NCCU, Taiwan
