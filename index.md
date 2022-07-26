@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## B
+## Bio
 I'm currently an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
 I received a B.Sc. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received master degree from the Graduate Institute of Library, Information and Archival Studies in 2018.
 
