@@ -23,7 +23,6 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
   - Overall GPA: 4.12/4.3 
   - Thesis: Development and Evaluation of a Character Social Network Relationship Map Tool in an Ancient Book Digital Humanities Research Platform
   - Thesis Advisor: Prof. Chih-Ming Chen
-<br>
 - **Fu Jen Catholic University (FJU), New Taipei City, Taiwan 	2012/08 – 2016/07**
   - BA in Library and Information Science
   - Awards: “Service-Learning Excellence Award” (2015), “Active Participation in Research Award” (2014)
