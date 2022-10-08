@@ -29,14 +29,15 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Publications
 ### **Journal Papers:**
-1. Chen, C.M., ***Chang, C.***, & Hsu, C.F., & Lim, C. P. (2022). Development and application of a digital humanities research platform for biographies of Malaysian personalities. The Electronic Library. [[paper](https://doi.org/10.1108/EL-01-2022-0007){:target="_blank"}]
-2. Chen, C.M., ***Chang, C.***, & Chen, C.Y. (2022). Inquiry-based Learning with a Digital Humanities Research Platform’s Support to Facilitate Students’ Historical Investigation Performance. Journal of Library and Information Studies. [[paper](./assets/paper/20220706-Pre1.pdf){:target="_blank"}]
-3. Chen, C.M., Ho, S.Y., & ***Chang, C.*** (2021). A Hierarchical Topic Analysis Tool to Facilitate Digital Humanities Research. Aslib Journal of Information Management. [[paper](https://doi.org/10.1108/AJIM-11-2021-0325){:target="_blank"}]
-4. Chen, C.M., ***Chang, C.***, & Chen, Y.T. (2021). A character social network relationship map tool to facilitate digital humanities research. Library Hi Tech. [[paper](https://doi.org/10.1108/LHT-08-2020-0194){:target="_blank"}]
-5. Lin, C.H., ***Chang, C.***, & Hsu, C.F. (2020). Development and Application of Digital Humanities Research Platform with Observation Tool of Viewpoint Migration and Age Division. Journal of InfoLib and Archives, Vol. 96, pp. 110-170. doi:10.6575/JILA.202006_(96).0004. [[paper](./assets/paper/96-04.pdf){:target="_blank"}]
-6. Chen, C.M., ***Chang, C.***, & Hsu, C.F. (2020). Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings. Journal of Digital Archives and Digital Humanities, Vol. 5, pp73-115. doi:10.6853/DADH.202004_(5).0003. [[paper](https://dx.doi.org/10.6853/DADH.202004_(5).0003){:target="_blank"}]
-7. Chen, C.-M. and ***Chang, C.*** (2019), "A Chinese ancient book digital humanities research platform to support digital humanities research", The Electronic Library, Vol. 37 No. 2, pp. 314-336. https://doi.org/10.1108/EL-10-2018-0213. [[paper](https://doi.org/10.1108/EL-10-2018-0213){:target="_blank"}]
-8. Hsu, C.F., and ***Chang, C.***, (2019). Development and Application of an Ancient Chinese Sentence Segmentation System Based on Active Learning. Journal of InfoLib and Archives, Vol. 95, pp. 117-145. http://dx.doi.org/10.6575%2fJILA.201912_(95).0004. [[paper](./assets/paper/95-04.pdf){:target="_blank"}]
+1. Chen, C.M., and ***Chang, C.***, Zhang, S. Y. (2022). Analysis of Website User Behavior: A Case Study of National Chengchi University Academic Hub. Journal of InfoLib and Archives (Accepted)
+2. Chen, C.M., ***Chang, C.***, & Hsu, C.F., & Lim, C. P. (2022). Development and application of a digital humanities research platform for biographies of Malaysian personalities. The Electronic Library. [[paper](https://doi.org/10.1108/EL-01-2022-0007){:target="_blank"}]
+3. Chen, C.M., ***Chang, C.***, & Chen, C.Y. (2022). Inquiry-based Learning with a Digital Humanities Research Platform’s Support to Facilitate Students’ Historical Investigation Performance. Journal of Library and Information Studies. [[paper](./assets/paper/20220706-Pre1.pdf){:target="_blank"}]
+4. Chen, C.M., Ho, S.Y., & ***Chang, C.*** (2021). A Hierarchical Topic Analysis Tool to Facilitate Digital Humanities Research. Aslib Journal of Information Management. [[paper](https://doi.org/10.1108/AJIM-11-2021-0325){:target="_blank"}]
+5. Chen, C.M., ***Chang, C.***, & Chen, Y.T. (2021). A character social network relationship map tool to facilitate digital humanities research. Library Hi Tech. [[paper](https://doi.org/10.1108/LHT-08-2020-0194){:target="_blank"}]
+6. Lin, C.H., ***Chang, C.***, & Hsu, C.F. (2020). Development and Application of Digital Humanities Research Platform with Observation Tool of Viewpoint Migration and Age Division. Journal of InfoLib and Archives, Vol. 96, pp. 110-170. doi:10.6575/JILA.202006_(96).0004. [[paper](./assets/paper/96-04.pdf){:target="_blank"}]
+7. Chen, C.M., ***Chang, C.***, & Hsu, C.F. (2020). Development and Application of Digital Humanities Research Platform for Mr. Lo Chia-Lun's Writings. Journal of Digital Archives and Digital Humanities, Vol. 5, pp73-115. doi:10.6853/DADH.202004_(5).0003. [[paper](https://dx.doi.org/10.6853/DADH.202004_(5).0003){:target="_blank"}]
+8. Chen, C.-M. and ***Chang, C.*** (2019), "A Chinese ancient book digital humanities research platform to support digital humanities research", The Electronic Library, Vol. 37 No. 2, pp. 314-336. https://doi.org/10.1108/EL-10-2018-0213. [[paper](https://doi.org/10.1108/EL-10-2018-0213){:target="_blank"}]
+9. Hsu, C.F., and ***Chang, C.***, (2019). Development and Application of an Ancient Chinese Sentence Segmentation System Based on Active Learning. Journal of InfoLib and Archives, Vol. 95, pp. 117-145. http://dx.doi.org/10.6575%2fJILA.201912_(95).0004. [[paper](./assets/paper/95-04.pdf){:target="_blank"}]
 
 ### **Conference papers:**
 1. Chih-Ming Chen, Ying-Xiang Zhao, ***Chung Chang***, & Szu-Yu Ho. "Developing an Image Retrieval Tool based on Automatic Context Annotation for Digital Humanities Research" in DADH 2021: 12th International Conference of Digital Archives and Digital Humanities, Changhua, Taiwan, 2021.12. 
@@ -52,6 +53,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 11. ***C. Chang.***, and C.C. Mao. “Practice Tool of Information Organization: KOHA Live” in The 13th Cross-Strait Library and Information Science Seminar, Wuhan, China, 2016.
 
 ## Academic Services
+- Reviewer, Social Science Computer Review, 2022
 - Reviewer, Library Hi Tech, 2021
 - Reviewer, Data Technologies and Applications,  2021
 
