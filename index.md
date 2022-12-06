@@ -58,6 +58,8 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 - Reviewer, Data Technologies and Applications,  2021
 
 ## Talks
+- **Literature of Humanities 2022/12/6**
+  - "How Digital Humanities support Humanities Research and Teaching" in Department of Information and Library Science at Tamkang University  
 - **Tzu-Chi Digital Archives Workshop	2020/7/25-2020/7/26**
   - “Natural Language Processing applications in Digital Humanities and Digital Archive” in Taiwan Buddhist Tzu-Chi Foundation
 - **Conceptual Networks and Chronology: A Study of Modern Chinese Thinkers in Digital Perspective - International Workshop	2019/12/4**
