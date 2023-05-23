@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I'm currently an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
 I received a B.A. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received a master degree from the Graduate Institute of Library, Information and Archival Studies at National Chengchi University, Taiwan in 2018.
-
+As a CCS IT Engineer, I have been working on various digital humanities platforms and digital archive initiatives. I participated in the Digital Humanities Research Platform for Malaysian Personalities (DHRPBMP), the Digital Humanities Research Platform for Mr. Lo Chia-Writings Lun's (DHRPMW), the Digital Humanities Research Platform with Viewpoint Migration and Age Division Observation Tool (OBTVMA), the Digital Humanities Research Platform with Hierarchical Topic Analysis Tool (DRPHTA), and the Ancient Chinese Sentence Segmentation System Based on Active Learning (ACS). The DHRPBMP is also a collaboration between the Malaysian Chinese Research Centre at the University of Malaya and the Federation of Heng Ann Malaysia. To support digital humanities research, the DHRPBMP and DHRPMW provide a convenient and user-friendly reading interface with the support of an automatic text annotation tool based on named entity recognition (NER), linked data (LD), metadata search, full-text search, geographic information system (GIS), and character social network analysis. The DRPHTA and OBTVMA support humanities scholars in observing corpus perspective movement using natural language processing. Almost all of the research has been published in peer-reviewed publications or at international conferences.
 ## Work Experience
 - **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–Present**
   - IT Engineer for developing digital humanities applications and digital archive platforms
@@ -29,7 +29,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Publications
 ### **Journal Papers:**
-1. Chen, C.M., and ***Chang, C.***, Zhang, S. Y. (2022). Analysis of Website User Behavior: A Case Study of National Chengchi University Academic Hub. Journal of InfoLib and Archives (Accepted)
+1. Chen, C.M., and ***Chang, C.***, Zhang, S. Y. (2022). Analysis of Website User Behavior: A Case Study of National Chengchi University Academic Hub. Journal of InfoLib and Archives [[paper](./assets/paper/101-01.pdf){:target="_blank"}]
 2. Chen, C.M., ***Chang, C.***, & Hsu, C.F., & Lim, C. P. (2022). Development and application of a digital humanities research platform for biographies of Malaysian personalities. The Electronic Library. [[paper](https://doi.org/10.1108/EL-01-2022-0007){:target="_blank"}]
 3. Chen, C.M., ***Chang, C.***, & Chen, C.Y. (2022). Inquiry-based Learning with a Digital Humanities Research Platform’s Support to Facilitate Students’ Historical Investigation Performance. Journal of Library and Information Studies. [[paper](./assets/paper/20220706-Pre1.pdf){:target="_blank"}]
 4. Chen, C.M., Ho, S.Y., & ***Chang, C.*** (2021). A Hierarchical Topic Analysis Tool to Facilitate Digital Humanities Research. Aslib Journal of Information Management. [[paper](https://doi.org/10.1108/AJIM-11-2021-0325){:target="_blank"}]
