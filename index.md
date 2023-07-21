@@ -4,10 +4,12 @@ layout: homepage
 
 ## About Me
 I received a B.A. degree from the Department of Information and Library Science at Fu Jen Catholic University in 2016 and received a master degree from the Graduate Institute of Library, Information and Archival Studies at National Chengchi University, Taiwan in 2018. <br>
-I'm currently an IT engineer at the Research Center for Chinese Cultural Subjectivity at National Chengchi University, Taipei, Taiwan.
+I'm currently an IT engineer at the Research Center for Chinese Cultural Metaverse at National Chengchi University, Taipei, Taiwan.
 As a CCS IT Engineer, I have been working on various digital humanities platforms and digital archive initiatives. I participated in the Digital Humanities Research Platform for Malaysian Personalities (DHRPBMP), the Digital Humanities Research Platform for Mr. Lo Chia-Writings Lun's (DHRPMW), the Digital Humanities Research Platform with Viewpoint Migration and Age Division Observation Tool (OBTVMA), the Digital Humanities Research Platform with Hierarchical Topic Analysis Tool (DRPHTA), and the Ancient Chinese Sentence Segmentation System Based on Active Learning (ACS). The DHRPBMP is also a collaboration between the Malaysian Chinese Research Centre at the University of Malaya and the Federation of Heng Ann Malaysia. To support digital humanities research, the DHRPBMP and DHRPMW provide a convenient and user-friendly reading interface with the support of an automatic text annotation tool based on named entity recognition (NER), linked data (LD), metadata search, full-text search, geographic information system (GIS), and character social network analysis. The DRPHTA and OBTVMA support humanities scholars in observing corpus perspective movement using natural language processing. Almost all of the research has been published in peer-reviewed publications or at international conferences.
 ## Work Experience
-- **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–Present**
+- **Research Center for Chinese Cultural Metaverse, National Chengchi University, Taiwan 2023/1–Present**
+  - IT Engineer for developing digital humanities applications, digital archive platforms and metaverse platfroms.
+- **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–2022/12**
   - IT Engineer for developing digital humanities applications and digital archive platforms
 - **Shou Ray Information Service Co., New Taipei City, Taiwan   2015/9-2016/9**
   - Koha library system programmer (Intern)
