@@ -56,7 +56,7 @@ Digital Library, Digital Humanities, Information Organization, Natural Language 
 
 ## Academic Services
 - Reviewer, Social Science Computer Review, 2022
-- Reviewer, Library Hi Tech, 2021
+- Reviewer, Library Hi Tech, 2021,2023,2024
 - Reviewer, Data Technologies and Applications,  2021
 
 ## Talks
