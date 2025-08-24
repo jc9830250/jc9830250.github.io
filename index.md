@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I'm currently an IT engineer at the Research Center for Humanities and Social Sciences,Academia Sinica, Taipei, Taiwan. As an IT Engineer, I focused on system and network administration, with an emphasis on cybersecurity,
-implemented a system monitoring solution (Zabbix) and a SIEM mechanism (Graylog, Wazuh), and assisted the department in successfully achieving ISO 27001 certification.<br>
-I had been working on various digital humanities platforms and digital archive initiatives. I participated in the Digital Humanities Research Platform for Malaysian Personalities (DHRPBMP), the Digital Humanities Research Platform for Mr. Lo Chia-Writings Lun's (DHRPMW), the Digital Humanities Research Platform with Viewpoint Migration and Age Division Observation Tool (OBTVMA), the Digital Humanities Research Platform with Hierarchical Topic Analysis Tool (DRPHTA), and the Ancient Chinese Sentence Segmentation System Based on Active Learning (ACS). The DHRPBMP is also a collaboration between the Malaysian Chinese Research Centre at the University of Malaya and the Federation of Heng Ann Malaysia. To support digital humanities research, the DHRPBMP and DHRPMW provide a convenient and user-friendly reading interface with the support of an automatic text annotation tool based on named entity recognition (NER), linked data (LD), metadata search, full-text search, geographic information system (GIS), and character social network analysis. The DRPHTA and OBTVMA support humanities scholars in observing corpus perspective movement using natural language processing. Almost all of the research has been published in peer-reviewed publications or at international conferences.
+I’m currently an IT engineer at the Research Center for Humanities and Social Sciences,Academia Sinica, Taipei, Taiwan. As an IT Engineer, I focuse on system and network administration, with an emphasis on cybersecurity, implemented a system monitoring solution (Zabbix) and a SIEM mechanism (Graylog, Wazuh), and assisted the department in successfully achieving ISO 27001 certification.
+In addition to my knowledge of system and network administration, I am also an expert in big data analysis, natural language processing, development of related AI applications, web development, and user behavior analysis.
+I graduated from the Graduate School of Library and Archives, National Chengchi University, and received my bachelor's degree from the Department of Library and Information Science, Fu Jen Catholic University.
 ## Work Experience
 - **Research Center for Humanities and Social Sciences,Academia Sinica Taiwan 2023/11–Present**
-  - IT Engineer for cybersecurity,
+  - IT Engineer for cybersecurity
 - **Research Center for Chinese Cultural Metaverse, National Chengchi University, Taiwan 2023/1–2023/7**
   - IT Engineer for developing digital humanities applications, digital archive platforms and metaverse platforms.
 - **Research Center for Chinese Cultural Subjectivity, National Chengchi University, Taiwan 2018/8–2022/12**
